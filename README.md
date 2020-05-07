@@ -1,8 +1,6 @@
 # Color Palette Api
 
-This is the color palette API for my [Frontend Masters React Native course](https://kadikraman.github.io/react-native-v2/).
-
-Hosted version: https://color-palette-api.kadikraman.now.sh/palettes
+Hosted version: https://color-palette-api.karngyan.now.sh/palettes
 
 ## Local development
 
